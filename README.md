@@ -1,12 +1,12 @@
 # HTML-CSS-and-Tailwind-WebPages:
 
-Project 1 - Credit Card Landing Page
-Project 2 - Hosting Site Landing Page
-Project 3 - Gaming Landing Page
-Project 4 - Real Estate Landing Page
-Project 5 - Beats Landing Page
-Project 6 - Data Analytics Landing Page
-Project 7 - VS Code Clone Using Tailwind CSS
+Project 1 - Credit Card Landing Page<br/>
+Project 2 - Hosting Site Landing Page<br/>
+Project 3 - Gaming Landing Page<br/>
+Project 4 - Real Estate Landing Page<br/>
+Project 5 - Beats Landing Page<br/>
+Project 6 - Data Analytics Landing Page<br/>
+Project 7 - VS Code Clone Using Tailwind CSS<br/>
 
 
 Technologies/ Tools Used:
